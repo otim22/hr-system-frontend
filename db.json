@@ -1,0 +1,54 @@
+{
+    "staff": [
+      {
+        "id": 1,
+        "surname": "Odo",
+        "other_names": "Kevin",
+        "date_of_birth": "1990-02-23",
+        "unique_code": 3343814287,
+        "employee_number": "EN-4831",
+        "is_verified": true,
+        "image_src": "1727965281_reddit-avatar.png"
+      },
+      {
+        "id": 2,
+        "surname": "Tim",
+        "other_names": "Halland",
+        "date_of_birth": "1990-02-23",
+        "unique_code": 3343814287,
+        "employee_number": "EN-4831",
+        "is_verified": true,
+        "image_src": "1727965281_reddit-avatar.png"
+      },
+      {
+        "id": 3,
+        "surname": "Olet",
+        "other_names": "George",
+        "date_of_birth": "1990-02-23",
+        "unique_code": 3343814287,
+        "employee_number": "EN-4831",
+        "is_verified": true,
+        "image_src": "1727965281_reddit-avatar.png"
+      },
+      {
+        "id": 4,
+        "surname": "Mari",
+        "other_names": "Johns",
+        "date_of_birth": "1990-02-23",
+        "unique_code": 3343814287,
+        "employee_number": "EN-4831",
+        "is_verified": false,
+        "image_src": "1727965281_reddit-avatar.png"
+      },
+      {
+        "id": 5,
+        "surname": "Lenon",
+        "other_names": "Bryson",
+        "date_of_birth": "1990-02-23",
+        "unique_code": 3343814287,
+        "employee_number": "EN-4831",
+        "is_verified": false,
+        "image_src": "1727965281_reddit-avatar.png"
+      }
+    ]
+}

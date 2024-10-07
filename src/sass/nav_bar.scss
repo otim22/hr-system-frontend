@@ -1,0 +1,77 @@
+/* Inactive tab */
+.customTab > .nav-item > .nav-link {
+    color: rgb(46, 45, 45);
+    border-bottom: 1px gray;
+}
+.customTab > .nav-item > .nav-link:hover {
+    background-color: rgb(146, 146, 147);
+}
+ 
+/* Active tab */
+.customTab > .nav-item > .nav-link.active,
+.customTab > .nav-item > .nav-link:focus {
+    background-color: rgb(48, 49, 50);
+    color: white;
+}
+
+/* Custom button */
+.blue-color {
+    background-color: $blue-500 !important;
+    border-color: $blue-500 !important;
+}
+.bg-custom {
+    background-color: $blue-500 !important;
+    border-color: $blue-500 !important;
+}
+.bg-custom:active {
+    background-color: $blue-500 !important;
+    border-color: $blue-600 !important;
+}
+.bg-custom:hover {
+    background-color: $blue-400 !important;
+    border-color: $blue-600 !important;
+    color: rgb(236, 232, 234) !important;
+}
+.bg-custom:focus {
+    background-color: $blue-400 !important;
+    border-color: $blue-600 !important;
+}
+
+/* Custom button outlined button */
+.bg-custom-out-lined {
+    color: $blue-500 !important;
+    background-color: #ffffff !important;
+    border-color: $blue-500 !important;
+}
+.bg-custom-out-lined:active {
+    background-color: $blue-500 !important;
+    border-color: $blue-500 !important;
+}
+.bg-custom-out-lined:hover {
+    background-color: $blue-500 !important;
+    border-color: $blue-500 !important;
+    color: rgb(249, 245, 248) !important;
+}
+.bg-custom-out-lined:focus {
+    background-color: $blue-500 !important;
+    border-color: $blue-500 !important;
+}
+
+div.dropdown-menu.show {
+    background-color: #f4f4f6;
+    min-width: 180px;
+    padding: 10px 0px;
+    text-transform: capitalize;
+    border-color: transparent;
+    box-shadow: 1px 8px 16px 1px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+a.dropdown-item {
+    color: #787979;  
+}
+
+// active nav item 
+.cust-nav .active {
+    color: $blue-500 !important;
+    font-weight: 600;
+}
